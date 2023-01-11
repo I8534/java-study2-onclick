@@ -29,6 +29,8 @@ document.querySelector('.box-wrapper').style.display라는 식은 Box(para)의 d
 
 'block'와 'none'이 입력이 되는 것이다.
 
+다른 자바 코드와 다르게 함수가 선언이 안 된 것은 온클릭을 통해 간접적으로 함수 선언을 하기 때문이다.
+
 
 
 
